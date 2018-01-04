@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/headers"
+  to = "https://us-central1-netlify-intercom.cloudfunctions.net/readHeaders"
+  status = 200
+  force = true
+  signed = "TESTING"
